@@ -38,6 +38,12 @@ $ npm i @nestjs/mongoose mongoose
 $ npm i class-validator class-transformer
 ```
 
+## Recrear la base de datos de mongo con la semilla en dev
+
+```
+http://localhost:3000/api/v2/seed
+```
+
 ## Running the app
 
 ```bash
