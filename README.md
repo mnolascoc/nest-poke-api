@@ -32,6 +32,12 @@ $ npm i -g @nestjs/cli
 $ npm i @nestjs/mongoose mongoose
 ```
 
+## Instalar librerias para validaciones en los DTO
+
+```bash
+$ npm i class-validator class-transformer
+```
+
 ## Running the app
 
 ```bash
