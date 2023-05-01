@@ -44,6 +44,20 @@ $ npm i class-validator class-transformer
 http://localhost:3000/api/v2/seed
 ```
 
+## Instalar Configuración de variables de entorno para Nest JS
+
+```bash
+$ npm i @nestjs/config
+```
+
+## Instalar validador de esquemas
+
+```bash
+$ npm i joi
+```
+
+Clonar el archivo **.env.template** y renombrar la copia a **.env**. Llenar variables de entorno
+
 ## Running the app
 
 ```bash
